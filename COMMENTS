@@ -1,0 +1,16 @@
+"COMMENTS" file included per instructions: https://homework.adhoc.team/noclist/
+Contents below copied from docstring in 4712645.go
+
+Assessment Submission for IT Specialist (APPSW) (Software Developer) 21-CFPB-72-P/75-MP
+Applicant ID: 4712645
+Chosen exercise: https://homework.adhoc.team/noclist/
+
+Requirements:
+  - Install Go: https://golang.org/doc/install
+  - Tested locally on: go1.16.2 darwin/amd64
+To run:
+  - `go run 4712645.go`
+To run against an endpoint other than "http://0.0.0.0:8888", pass the endpoint URL as an argument:
+  - `go run 4712645.go <endpoint_url>`
+To test:
+  - `go test 4712645`
